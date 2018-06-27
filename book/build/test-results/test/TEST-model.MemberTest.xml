@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.MemberTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2018-06-27T12:52:24" hostname="PC201701171400" time="0.1">
+  <properties/>
+  <testcase name="testFindCurrentLoanFor" classname="model.MemberTest" time="0.01"/>
+  <testcase name="testGetLoans" classname="model.MemberTest" time="0.0"/>
+  <testcase name="testGetId" classname="model.MemberTest" time="0.0"/>
+  <testcase name="testSetId" classname="model.MemberTest" time="0.0"/>
+  <testcase name="testLoan" classname="model.MemberTest" time="0.08"/>
+  <testcase name="testGetiSpecifications" classname="model.MemberTest" time="0.0"/>
+  <testcase name="testValidate" classname="model.MemberTest" time="0.0"/>
+  <testcase name="testGetName" classname="model.MemberTest" time="0.0"/>
+  <testcase name="testSetiSpecifications" classname="model.MemberTest" time="0.0"/>
+  <testcase name="testCanLoan" classname="model.MemberTest" time="0.0"/>
+  <testcase name="testReturnBook" classname="model.MemberTest" time="0.0"/>
+  <testcase name="testSetName" classname="model.MemberTest" time="0.0"/>
+  <testcase name="testSetLoans" classname="model.MemberTest" time="0.0"/>
+  <system-out><![CDATA[閲戣瀺瀛?鍊熶功鎴愬姛閲戣瀺瀛?杩樹功鎴愬姛]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
